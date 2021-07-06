@@ -1,22 +1,22 @@
 # carolla-tshirts
-System developed during the semester in the course of Web Development 2
+System developed during the semester in the course of Web Development 2.
 
 Checkist
 
-Caixas de Diálogo
+Caixas de Diálogo:
 
 - [ ] prompt
 - [ ] alert
 - [ ] confirm
 
 
-Temporizadores
+Temporizadores:
 
 - [ ] setInterval
 - [ ] setTimeout
  
  
-Funções
+Funções:
 
 - [ ] Função anônima com argumento
 - [ ] Função anônima sem argumento
@@ -28,7 +28,7 @@ Funções
 - [ ] Função Flecha - Arrow Function
  
  
-Eventos
+Eventos:
 
 - [ ] Evento de carregamento do documento - onload
 - [ ] Evento de movimento do mouse
@@ -38,7 +38,7 @@ Eventos
 - [ ] Propagação de eventos no modelo bolha (usar target e currentTarget, ou seja, disparar o evento em um elemento filho e capturar em um elemento pai)
  
  
-Acesso aos elementos DOM do HTML
+Acesso aos elementos DOM do HTML:
 
 - [ ] Via referência DOM pelo id do elemento HTML
 - [ ] Via getElementByID()
@@ -47,7 +47,7 @@ Acesso aos elementos DOM do HTML
 - [ ] Via seletores CSS usados na função querySelector() ou querySelectorAll()
  
  
-Tratadores de Evento
+Tratadores de Evento:
 
 - [ ] Especificar o tratador de evento inline
 - [ ] Especificar o tratador de evento no carregamento da página HTML no modo tradicional - no onload
@@ -55,7 +55,7 @@ Tratadores de Evento
 - [ ] Usar o operador this em funções tratadoras de eventos.
  
  
-Objetos Nativos
+Objetos Nativos:
 
 - [ ] Usar pelo menos 3 métodos de manipulação de array
 - [ ] Usar laço de repetição (for..in ou for..of ou forEach)
@@ -63,14 +63,14 @@ Objetos Nativos
 - [ ] String Template
  
  
-Objetos
+Objetos:
 
 - [ ] Criar objeto usando função construtora ou notação literal
 - [ ] Criar objetos a partir da definição de classes do ES6
 - [ ] Usar herança prototipal nativa ou herança de classes do ES6
  
  
-Qualidade do código
+Qualidade do código:
 
 - [ ] Usar um Style Guide - apresentar o uso de pelo menos 10 regras do style escolhido (sugerido AirBnb)
 - [ ] Usar um lint - mostrar a correção de pelo menos 5 problemas informados pelo lint (sugerido JSHint - usar o arquivo .jshintrc disponível no moodle)
@@ -81,7 +81,7 @@ Qualidade do código
 - [ ] Nomes de arquivos minúsculos e separados por hífen (dashed-case)
  
  
-Formulário
+Formulário:
 
 - [ ] Validação de formulário com onsubmit usando os métodos tradicionais
 - [ ] Validação de formulário com HTML5 API
@@ -94,7 +94,7 @@ Formulário
 - [ ] Acesso aos elementos de um formulário via hierarquia (caminho) de objetos, ou seja, array forms e elements
  
  
-jQuery
+jQuery:
 
 - [ ] Uso de seletores CSS - id, classe e tag
 - [ ] Uso de seletores hierárquicos estáticos - ancestral/descendente, pai/filho, anterior/próximo
@@ -106,13 +106,13 @@ jQuery
 - [ ] Aplicar um plugin do jQuery (por exemplo, jQuery Mask Plugin)
  
  
-Web Storage
+Web Storage:
 
 - [ ] LocalStorage ou SessionStorage
 - [ ] Leitura e escrita de dados simples
 - [ ] Leitura e escrita de JSON
  
  
-Ajax com Backend
+Ajax com Backend:
 
 - [ ] Implementação funcional (basta fazer funcionar uma requisição) do backend em ExpressJS na plataforma Node e requisições AJAX.
