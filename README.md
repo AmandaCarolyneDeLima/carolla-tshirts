@@ -5,7 +5,7 @@ Checkist
 
 Caixas de Diálogo:
 
-- [] prompt
+- [ ] prompt
 - [ ] alert
 - [ ] confirm
 
