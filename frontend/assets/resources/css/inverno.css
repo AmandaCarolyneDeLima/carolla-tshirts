@@ -1,0 +1,19 @@
+.bg-theme-primary {
+    background-color: #D086C0;
+}
+
+.bg-theme-secondary {
+    background-color: #E7D2EB;
+}
+
+.border-none {
+    border: none;
+}
+
+body {
+    background-color: #E7D2EB;
+}
+
+img {
+    height: 20rem !important;
+}

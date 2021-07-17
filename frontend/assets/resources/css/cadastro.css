@@ -1,0 +1,30 @@
+.bg-theme-primary {
+    background-color: #D086C0;
+}
+
+.bg-theme-secondary {
+    background-color: #E7D2EB;
+}
+
+.border-none {
+    border: none;
+}
+
+.custom-input {
+    background: grey;
+    border-radius: 3px;
+}
+
+
+body {
+    background-color: #E7D2EB;
+}
+
+img {
+    height: 20rem !important;
+}
+
+.form-select {
+    width: 40%;
+    margin: 0 auto;
+}
