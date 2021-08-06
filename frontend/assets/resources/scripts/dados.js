@@ -1,3 +1,5 @@
+'use strict';
+
 //-----Criar objeto usando função construtora ou notação literal-----
 
 class Cadastro {

@@ -1,12 +1,14 @@
+'use strict';
+
 //-----Confirm-----
 
 let mensagem;
-let retorno = confirm("Que bom ter você aqui!");
+let retorno = confirm('Que bom ter você aqui!');
 
 if (retorno == true) {
-    mensagem = "Fique a vontade para escolher a t-shirt que mais lhe agradou :)"
+    mensagem = 'Fique a vontade para escolher a t-shirt que mais lhe agradou :)';
 } else {
-    mensagem = "Ainda tem chances de escolher a sua! Fica a vontade!"
+    mensagem = 'Ainda tem chances de escolher a sua! Fica a vontade!';
 }
 
 document.write(mensagem);
@@ -14,12 +16,12 @@ document.write(mensagem);
 //----------
 
 
-//-----Alert-----
-//-----setInterval-----
+/**-----Alert-----
+//-----setInterval-----*/
 
 setInterval(function () {
     window.location.reload();
-    window.alert(" A página foi recarregada, confira as atualizações!");
+    window.alert('A página foi recarregada, confira as atualizações!');
 }, 900000); //15min
 
 //----------
@@ -28,7 +30,7 @@ setInterval(function () {
 //-----inline-----
 
 function load() {
-    alert("Uma dica: não esqueça de anotar o código da(s) t-shirt(s) escolhida(s).")
+    alert('Uma dica: não esqueça de anotar o código da(s) t-shirt(s) escolhida(s).');
 }
 
 //----------
