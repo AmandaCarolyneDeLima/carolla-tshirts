@@ -29,8 +29,9 @@ setInterval(function () {
 
 //-----inline-----
 
++
 function load() {
     alert('Uma dica: não esqueça de anotar o código da(s) t-shirt(s) escolhida(s).');
-}
+}();
 
 //----------
